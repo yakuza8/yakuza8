@@ -32,7 +32,7 @@ and you can check my existing repositories. For further information, one can tak
 ...     },
 ...     'interests': {'artificial-intelligence', 'machine-learning', 'security'},
 ...     'personal-interest': {'日本語', 'anime', 'strategy-games', 'sudoku', 'hip-hop music'},
-...     'fun-fact': {'I fell in love my cat Çiçek', 'I have a symmetry obsession :('},
+...     'fun-fact': {'I fell in love with my cat Çiçek', 'I have a symmetry obsession :('},
 ...     'education': 'METU'
 ... }
 >>>
