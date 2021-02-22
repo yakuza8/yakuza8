@@ -16,7 +16,7 @@ and you can check my existing repositories. For further information, one can tak
 >>> 
 >>> berat = {
 ...     'pronouns': {'He', 'Him'},
-...     'programming-languages': {Python, Java, C/C++, Scala, Haskell, Typescript},
+...     'programming-languages': {Python, Java, C/C++, Scala, Haskell, Typescript, Scheme},
 ...     'ask-me-about': {'web-development', 'artificial-intelligence', 'competitive-programming'},
 ...     'technology': {
 ...         'backend': {
@@ -30,7 +30,7 @@ and you can check my existing repositories. For further information, one can tak
 ...         'databases': [MySQL, PostgreSQL, MongoDB],
 ...         'miscellaneous': ['numpy', 'scikit-learn', 'pytorch']
 ...     },
-...     'interests': {'artificial-intelligence', 'machine-learning', 'security'},
+...     'interests': {'artificial-intelligence', 'machine-learning', 'security', 'functional-programming'},
 ...     'personal-interest': {'日本語', 'anime', 'strategy-games', 'sudoku', 'hip-hop music'},
 ...     'fun-fact': {'I fell in love with my cat Çiçek', 'I have a symmetry obsession :('},
 ...     'education': 'METU'
