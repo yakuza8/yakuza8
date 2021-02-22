@@ -38,7 +38,7 @@ and you can check my existing repositories. For further information, one can tak
 >>>
 >>> yakuza8.update(properties=berat)
 >>>
->>> print('What is next?')
+>>> print("What is next? Let's have a big hug")
 ```
 
 ---
