@@ -16,7 +16,7 @@ and you can check my existing repositories. For further information, one can tak
 >>> 
 >>> berat = {
 ...     'pronouns': {'He', 'Him'},
-...     'programming-languages': {Python, Java, C/C++, Scala, Haskell, Typescript, Scheme},
+...     'programming-languages': {Python, Java, C/C++, Scala, Haskell, Typescript, Scheme, Javascript},
 ...     'ask-me-about': {'web-development', 'artificial-intelligence', 'competitive-programming'},
 ...     'technology': {
 ...         'backend': {
@@ -25,7 +25,7 @@ and you can check my existing repositories. For further information, one can tak
 ...             'scala': ['akka']
 ...         },
 ...         'frontend': {
-...             'typescript': ['angular4']
+...             'typescript': ['angular4', 'react']
 ...         },
 ...         'databases': [MySQL, PostgreSQL, MongoDB],
 ...         'miscellaneous': ['numpy', 'scikit-learn', 'pytorch']
