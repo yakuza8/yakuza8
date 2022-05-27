@@ -7,7 +7,7 @@
 [![Profile views](https://gpvc.arturio.dev/yakuza8)](https://github.com/yakuza8)
 
 <p>
-I am Software Engineer at Udemy graduated from Middle East Technical University in 2019. I have passion
+I am Software Engineer at AWS graduated from Middle East Technical University in 2019. I have passion
 in coding and my favorite language is Python. The main field I like to code is Artificial Intelligence, 
 and you can check my existing repositories. For further information, one can take a look at below code segment...
 </p>
