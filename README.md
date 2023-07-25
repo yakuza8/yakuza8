@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/yakuza8?label=Follow&style=social)](https://github.com/yakuza8)
 [![Linkedin: beratcankar](https://img.shields.io/badge/-Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berat-cankar-492234135/)](https://www.linkedin.com/in/berat-cankar-492234135/)
 [![Gmail Badge](https://img.shields.io/badge/-berat.cankar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:berat.cankar@gmail.com)](mailto:berat.cankar@gmail.com)
-[![Profile views](https://gpvc.arturio.dev/yakuza8)](https://github.com/yakuza8)
+<!--[![Profile views](https://gpvc.arturio.dev/yakuza8)](https://github.com/yakuza8)-->
 
 <p>
 I am Software Engineer at AWS graduated from Middle East Technical University in 2019. I have passion
