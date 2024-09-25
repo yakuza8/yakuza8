@@ -7,7 +7,7 @@
 <!--[![Profile views](https://gpvc.arturio.dev/yakuza8)](https://github.com/yakuza8)-->
 
 <p>
-I am Software Engineer at AWS graduated from Middle East Technical University in 2019. I have passion
+I am Software Engineer at Toolio graduated from Middle East Technical University in 2019. I have passion
 in coding and my favorite language is Python. The main field I like to code is Artificial Intelligence, 
 and you can check my existing repositories. For further information, one can take a look at below code segment...
 </p>
@@ -17,19 +17,20 @@ and you can check my existing repositories. For further information, one can tak
 >>> 
 >>> berat = {
 ...     'pronouns': {'He', 'Him'},
-...     'programming-languages': {Python, Java, C/C++, Scala, Kotlin, Haskell, Scheme, Javascript, Typescript},
+...     'programming-languages': {'Python', 'Java', 'C/C++', 'Scala', 'Kotlin', 'Haskell', 'Scheme', 'Javascript', 'Typescript'},
 ...     'ask-me-about': {'web-development', 'artificial-intelligence', 'competitive-programming', 'systems-design'},
 ...     'technology': {
 ...         'backend': {
 ...             'python': ['django'],
 ...             'java': ['vertx', 'jersey', 'spring'],
-...             'scala': ['akka']
+...             'scala': ['akka'],
+...             'javascript': ['nodejs', 'sequelize'],
 ...         },
 ...         'frontend': {
-...             'typescript': ['angular4', 'react']
+...             'typescript': ['angular4', 'react', 'vue']
 ...         },
-...         'databases': [MySQL, PostgreSQL, MongoDB, S3, DynamoDB],
-...         'miscellaneous': ['numpy', 'scikit-learn', 'pytorch', 'kafka', 'html', 'css']
+...         'databases': ['MySQL', 'PostgreSQL', 'MongoDB', 'S3', 'DynamoDB'],
+...         'miscellaneous': ['redis', 'numpy', 'scikit-learn', 'pytorch', 'kafka', 'html', 'css']
 ...     },
 ...     'interests': {'artificial-intelligence', 'machine-learning', 'security', 'functional-programming'},
 ...     'personal-interest': {'日本語', 'anime', 'strategy-games', 'sudoku', 'hip-hop music'},
