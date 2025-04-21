@@ -27,7 +27,7 @@ and you can check my existing repositories. For further information, one can tak
 ...             'javascript': ['nodejs', 'sequelize'],
 ...         },
 ...         'frontend': {
-...             'typescript': ['angular4', 'react', 'vue']
+...             'typescript': ['angular4', 'react', 'vue', 'react-native']
 ...         },
 ...         'databases': ['MySQL', 'PostgreSQL', 'MongoDB', 'S3', 'DynamoDB'],
 ...         'miscellaneous': ['redis', 'numpy', 'scikit-learn', 'pytorch', 'kafka', 'html', 'css']
